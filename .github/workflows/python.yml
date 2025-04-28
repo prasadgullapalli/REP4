@@ -20,4 +20,4 @@ jobs:
           python-version: '3.11'
 
       - name: Run Python script
-        run: python maximum.py
+        run: python "maximum of 3 numbers.py"
